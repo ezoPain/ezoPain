@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezoPain
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity and Unreal
 
 <!---
 ezoPain/ezoPain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
